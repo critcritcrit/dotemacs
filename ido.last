@@ -1,0 +1,60 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/Jc/Google Drive/notes/" . "gaming/")
+ ("c:/Users/Jc/Google Drive/" . "coding/")
+ ("c:/Users/Jc/" . ".emars/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/Jc/Google Drive/notes/gaming/"
+ "c:/Users/Jc/Google Drive/notes/"
+ "c:/Users/Jc/"
+ "c:/Users/Jc/Google Drive/coding/elisp/"
+ "c:/Users/Jc/Google Drive/coding/"
+ "c:/Users/Jc/Dropbox/notes/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "poe-next-league-ideas.org"
+ "#random-stuff.org#"
+ "random-stuff.org"
+ ".emacs"
+ "todo.org"
+ "hello-world.el"
+ "elisp"
+ "useful-links.org"
+ "diary.org"
+ "journal.org"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/Jc/Google Drive/notes/gaming/" (21596 27375 0 0) "sc2-buildorders.org" "poe-next-league-ideas.org~" "poe-next-league-ideas.org" "../" "./")
+
+ ("c:/Users/Jc/Google Drive/notes/" (21658 17268 0 0) "useful-links.org~" "useful-links.org" "todo.org~" "todo.org" "test.org~" "meta-tags.org" "journal.org~" "gaming/" "fitness-stuff.org" "en.pws" "en.prepl" "diary.org~" "diary.org" ".#todo.org" ".#random-stuff.org" ".##random-stuff.org#" "#todo.org#" "#random-stuff.org#" "##random-stuff.org##" "../" "./")
+
+ ("c:/Users/Jc/" (21657 61151 0 0) "__ng3d.lock" "_vimrc" "_viminfo" "_emacs" "[Sakai Hamachi] Alive/" "w3/" "Voluspaa/" "Vocaroo/" "VirtualBox VMs/" "vimwiki/" "vimfiles/" "Videos/" "Utilities/" "Unknown album (1-6-2011 7-00-36 PM)/" "ubuntu-gnome-14.04-desktop-i386.iso" "TXMouse.exe" "twittering-mode/" "trackmaniaforever.txt" "The Telescopes/" "test.txt" "test-backup/" "Templates/" "taisei-v1.0a-x86_64/" "T-Engine/" "swkotor.exe" "stuff.txt" "Start Menu/" "Simple 0.5.fcl" "ShadowEra1292.exe" "SendTo/" "Searches/" "Scelight Replay Backup/" "Saved Games/" "ROMS/" "riotsGamesLogs/" "Recent/" "random.dat" "Projects/" "programming-discussion-3.org" "PrintHood/" "Pokemon Online/" "poe.ahk" "Placebo by SolMiler/" "Pictures/" "pentadactyl/" "paper-primes" "paper" "OCremix/" "nvse_2_beta12/" "ntuser.ini" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "notes/" "NetHood/" "My Documents/" "music-to-fix" "Music/" "mtg-forge/" "Moonsorrow/" "maybeblackmagic-dotvim-6082e43/" "maths.txt" "ManiaPlanet_Setup.exe" "Local Settings/" "Links/" "KeePassX/" "jsrf.xspf" "jsrf.m3u" "journal.org.txt" "journal.org" "jc-pc-fd.conf" "jagex_cl_runescape_LIVE1.dat" "jagex_cl_runescape_LIVE.dat" "jagexcache1/" "jagexcache/" "jagexappletviewer.preferences" "Insert Remedy/" "inittab.txt" "IdeaProjects/" "hist-paper-04-10" "hist-paper" "Haruhi Subtitles/" "guilty gear/" "Google Drive/" "GG/" "Games/" "foo_uie_quicksearch.dll" "Favorites/" "emacs.bat" "emacs-starter-kit/" "Emacs/" "Ebooks/" "DxDiag.txt" "dwhelper/" "Dropbox/" "drivingschool.txt" "Downloads/" "Documents/" "diary~" "diary" "Deus Ex/" "Desktop/" "Daphne Oram/" "Cookies/" "Convict-Conditioning.pdf" "Contacts/" "Calibre Library/" "buildorders.org" "bugn_821/" "brainstorming" "bioshock infinite save/" "bin/" "biblography-04-10" "biblography" "AtherosFix.kext.zip" "asds/" "Application Data/" "AppData/" "answers.org" "amarok/" "Actualpaper" "._vimrc.un~" ".yawcam/" ".VirtualBox/" ".toe-scores~" ".toe-scores" ".thumbnails/" ".swt/" ".ssh/" ".Scelight/" ".projrs06/" ".paper-primes.un~" ".nbi/" ".minecraft/" ".jagex_cache_32/" ".IdeaIC12/" ".gtk-bookmarks" ".gitconfig" ".gimp-2.6/" ".emars/" ".emacs~" ".emacs.d/" ".emacs" ".DS_Store" ".drivingschool.txt.un~" ".config/" ".brainstorming.un~" ".biblography.un~" ".biblography-04-10.un~" ".atl.properties" ".Actualpaper.un~" "#_emacs#" "#stuff.org#" "#something.org#" "#buildorders.org#" "../" "./")
+
+ ("c:/Users/Jc/.emars/" (21657 53881 0 0) "../" "./")
+
+ ("c:/Users/Jc/Dropbox/notes/" (21657 55081 0 0) "useful-links.org~" "useful-links.org" "test.org~" "meta-tags.org" "journal.org~" "journal.org" "gaming/" "fitness-stuff.org" "diary.org" ".#journal.org" "#journal.org#" "../" "./")
+
+ ("c:/Users/Jc/Google Drive/coding/" (21657 52620 0 0) "elisp/" "../" "./")
+
+ ("c:/Users/Jc/Google Drive/coding/elisp/" (21657 55079 0 0) "hello-world.el" "../" "./")
+
+ ("c:/Users/Jc/Google Drive/" (21657 52505 0 0) "notes/" "emacs.bat~" "emacs.bat" "emacs/" "desktop.ini" "coding/" ".emacs" "../" "./")
+
+ ("c:/Users/Jc/Dropbox/" (21656 51864 0 0) "Wicca - A Guide For the Solitary Practit - Scott Cunningham.epub" "Whipping Girl - Julia Serano.epub" "Walter_Isaacson_-_Steve_Jobs.epub" "vimwiki/" "village" "The Last Ring-bearer - Kirill Yeskov.mobi" "The First Confessor - Terry Goodkind.mobi" "The First Confessor - Terry Goodkind.epub" "Terry Goodkind - [Sword of Truth 12] - The Omen Machine (epub).epub" "something.mp3" "Public/" "psych-chapter-8.org~" "psych-chapter-8.org" "psych-chapter-7.org~" "psych-chapter-7.org" "psych-chapter-6.org~" "psych-chapter-6.org" "psych-chapter-14.org~" "psych-chapter-14.org" "psych-chapter-12.org~" "psych-chapter-12.org" "psych-chapter-10.org~" "psych-chapter-10.org" "Projects/" "programming-discussion.org~" "programming-discussion.org" "Photos/" "personal/" "permissions-denied~" "permissions-denied" "notes/" "mobileorg.org" "Minecraft/" "les-miserables.epub" "Jackpot - No Hands.mp3" "Hist-Math-Paper" "George R R Martin - A Dance With Dragons.epub" "epistle/" "Econ-Article-Comments.org~" "Econ-Article-Comments.org" "ebooksclub.org__Fundamentals_of_Physics__9th_Edition.pdf" "Dropquest 2012/" "dot-emacs~" "dot-emacs-dot-d/" "dot-emacs" "diablo3.vim" "desktop.ini" "Calm_2560_1600.png" "Brandon Sanderson - [Mistborn 01] - The Final Empire.epub" "Banks, Ian M. - The Player of Games.mobi" "Banks, Iain - Culture 01 - Consider Phlebas.pdf" "46439.txt" ".village.un~" ".dropbox.cache/" ".dropbox" ".directory (sabayon's conflicted copy 2012-02-13)" ".directory (jc-G72GX's conflicted copy 2011-10-20)" ".directory" ".config/" ".46439.txt.un~" ".#diablo3.vim" "#psych-chapter-6.org#" "#Econ-Article-Comments.org#~" "#a-list-of-gabber-people.org#" "../" "./")
+
+ ("c:/Users/Jc/.emacs.d/" (21654 4321 0 0) "eshell/" "elpa/" "auto-save-list/" "../" "./")
+
+ ("c:/Users/Jc/.emacs.d/auto-save-list/" (21654 7998 0 0) ".saves-70388-JC-PC~" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

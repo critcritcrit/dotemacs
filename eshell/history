@@ -1,0 +1,16 @@
+ls
+cd ..
+cd ..
+cd notes/
+ls
+mv journal.org todo.org
+ls
+clang
+C:\Program Files\LLVM\bin\clang.exe
+"C:\Program Files\LLVM\bin\clang.exe"
+clang
+cppcheck
+cppcheck
+cpp-highlight-buffer
+gcc
+clang main.c 
