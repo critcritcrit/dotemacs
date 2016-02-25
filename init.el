@@ -34,6 +34,7 @@
 ;; basic pairing (change to something better later on)
 ;; (electric-pair-mode 1)
 (require 'smartparens-config)
+(smartparens-global-mode 1)
 
 ;; c-x c-u/l to upcase/lowercase
 (put 'upcase-region 'disabled nil)
@@ -69,14 +70,27 @@
 
 
 ;; Various org-mode options
+;; agenda-file stuff
 (if (eq system-type 'windows-nt)
     (setq org-agenda-files (quote ("C:/Users/Jc/Dropbox/notes")))
   (setq org-agenda-files (quote ("~/Dropbox/notes"))))
 (add-hook 'org-mode-hook '(lambda() (flyspell-mode t) ))
+(setq org-directory "C:/Users/JC/Dropbox/notes")
 
 (global-set-key (kbd "C->") 'org-demote-subtree)
 (global-set-key (kbd "C-<") 'org-promote-subtree)
 (global-set-key (kbd"C-|") 'org-agenda)
+(setq org-default-notes-file (concat org-directory "/notes.org"))
+;; Bind org capture to a key
+(global-set-key "\C-cl" 'org-capture)
+
+;; Org Capture templates
+;; Org Capture
+(setq org-capture-templates
+      '(("t" "Todo" entry (file+headline (concat org-directory "/journal.org") "Tasks")
+         "TODO %?\n %i\n")
+        ("l" "Link" plain (file (concat org-directory "/useful-links.org"))
+         "* %?\n %x\n")))
 
 
 ;; guru mode to train not using arrow keys
